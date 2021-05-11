@@ -244,6 +244,7 @@ input, select, textarea {
 					width: 900px;
 				}
 
+
 		}
 
 		@media screen and (max-width: 1280px) {
@@ -257,7 +258,7 @@ input, select, textarea {
 				}
 
 				.container #heading {
-					color: white;
+					color: yellow;
 				}
 		}
 
@@ -272,7 +273,7 @@ input, select, textarea {
 				}
 
 				.container #heading {
-					color: white;
+					color: yellow;
 				}
 		}
 
@@ -288,7 +289,7 @@ input, select, textarea {
 				}
 
 				.container #heading {
-					color: white;
+					color: blue;
 				}
 
 		}
